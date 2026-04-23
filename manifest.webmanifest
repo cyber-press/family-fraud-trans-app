@@ -1,0 +1,19 @@
+{
+  "name": "VaultPulse",
+  "short_name": "VaultPulse",
+  "description": "Smart Family Transaction Monitor",
+  "theme_color": "#050816",
+  "background_color": "#050816",
+  "display": "standalone",
+  "start_url": "./index.html",
+  "scope": "./",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/icons/vaultpulse-icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
